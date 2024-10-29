@@ -1,2 +1,2 @@
-File_Name=IMG-20241012-WA0026.jpg
-chapters=10
+File_Name=Picture1.jpg
+chapters=2
