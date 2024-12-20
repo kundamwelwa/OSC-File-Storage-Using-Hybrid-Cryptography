@@ -1,2 +1,0 @@
-File_Name=Picture1.jpg
-chapters=2
